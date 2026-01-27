@@ -1,0 +1,309 @@
+true_label_id,true_label,pred_label_id,pred_label
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+2,Clear Reply,2,Ambivalent
+0,Ambivalent,2,Clear Reply
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+1,Clear Non-Reply,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+1,Clear Non-Reply,0,Ambivalent
+2,Clear Reply,2,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Clear Reply
+2,Clear Reply,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+2,Clear Reply,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+1,Clear Non-Reply,1,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,0,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Clear Non-Reply
+0,Ambivalent,1,Clear Non-Reply
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+0,Ambivalent,1,Clear Non-Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,1,Clear Non-Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,0,Ambivalent
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,1,Clear Non-Reply
+2,Clear Reply,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+1,Clear Non-Reply,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,0,Ambivalent
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
+0,Ambivalent,2,Clear Reply
+2,Clear Reply,2,Clear Reply
